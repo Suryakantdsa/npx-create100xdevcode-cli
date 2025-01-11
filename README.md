@@ -34,7 +34,8 @@ Success! Created your TurborepoTo get started:
 ```bash
 ├── apps/
 │   ├── web/       # Next.js application
-│   └── server/    # WebSocket server
+│   └── ws-backend/    # WebSocket server
+|   └── http-backend/    # HTTP server
 │
 ├── package.json   # Root package configuration
 ├── turbo.json     # TurboRepo configuration
