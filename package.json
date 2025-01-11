@@ -1,6 +1,6 @@
 {
   "name": "create-100xdevcode-turbo-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to create a turbo repo with inbuilt http websocket and next app templet",
   "main": "bin/index.js",
   "bin": {
