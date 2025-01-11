@@ -57,7 +57,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 GitHub: [@Suryakantdsa](http://github.com/Suryakantdsa)
 Twitter: [@_\_1996surya_](https://x.com/_1996surya)
-
-```
-
-```
